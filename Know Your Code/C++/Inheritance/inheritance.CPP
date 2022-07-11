@@ -18,7 +18,7 @@ public:
 	int id_c;
 };
 
-// main function
+
 int main()
 {
 	Child obj1;
